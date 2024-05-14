@@ -1,0 +1,7 @@
+*.a
+*.out
+*.so
+*.o
+info.plist
+.vscode
+*.pdf
